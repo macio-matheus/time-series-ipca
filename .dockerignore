@@ -6,8 +6,11 @@ Dockerfile
 .gitignore
 README.md
 env.*
+.env
 devops
 .pytest_cache/
+docker-compose.yaml
+LICENSE
 
 # To prevent storing dev/temporary container data
 tmp
