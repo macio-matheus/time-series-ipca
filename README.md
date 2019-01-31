@@ -1,4 +1,4 @@
-### Time Series IPCA
+## Time Series IPCA
 
 This project aims to analyze and predict the IPCA historical series.
 
@@ -14,11 +14,7 @@ This project aims to analyze and predict the IPCA historical series.
 
 ![lstm experiment plot](https://raw.githubusercontent.com/macio-matheus/time-series-ipca/master/docs/experiment_lstm.png)
 
-**Table of Contents**
 
-[TOCM]
-
-[TOC]
 
 
 ### Usage
