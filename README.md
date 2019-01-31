@@ -14,17 +14,14 @@ This project aims to analyze and predict the IPCA historical series.
 
 ![lstm experiment plot](https://raw.githubusercontent.com/macio-matheus/time-series-ipca/master/docs/experiment_lstm.png)
 
-
-
-
 ### Usage
 First of all, build the container using docker-compose and then you can 
 access the Jupyter that is ready to be used.
 
 #### Run with docker compose
 ```sh
-cd iot-webservice
-docker-compose up -d --build
+cd time-series-ipca
+docker-compose up -d
 ```
 
 #### Accessing Jupyter
