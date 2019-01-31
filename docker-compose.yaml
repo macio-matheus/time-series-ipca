@@ -1,0 +1,19 @@
+version: '3'
+
+services:
+
+  geospatial_data_science:
+    container_name: time_series_data_jupyter
+    image: maciomatheus/jupyter_notebook_data_science
+    environment:
+      JUPYTER_ENABLE_LAB: 1
+      NB_UID: 10011
+      GRANT_SUDO: "yes"
+    user: root
+    ports:
+    - 8111:8888
+    - 6011:6006
+    - 5011:5000
+    volumes:
+    - ./:/home/jovyan/work
+    command: start-notebook.sh --NotebookApp.token=''
