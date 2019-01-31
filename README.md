@@ -4,15 +4,15 @@ This project aims to analyze and predict the IPCA historical series.
 
 #### Serie plot
 
-![serie](https://raw.githubusercontent.com/macio-matheus/time-series-ipcs/master/docs/serie_plot.png)
+![serie](https://raw.githubusercontent.com/macio-matheus/time-series-ipca/master/docs/serie_plot.png)
 
 #### Lag plot
 
-![lag plot](https://raw.githubusercontent.com/macio-matheus/time-series-ipcs/master/docs/lag_plot.png)
+![lag plot](https://raw.githubusercontent.com/macio-matheus/time-series-ipca/master/docs/lag_plot.png)
 
 #### Experiment with LSTM
 
-![lstm experiment plot](https://raw.githubusercontent.com/macio-matheus/time-series-ipcs/master/docs/experiment_lstm.png)
+![lstm experiment plot](https://raw.githubusercontent.com/macio-matheus/time-series-ipca/master/docs/experiment_lstm.png)
 
 **Table of Contents**
 
