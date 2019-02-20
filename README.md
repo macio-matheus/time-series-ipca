@@ -1,6 +1,6 @@
 ## Time Series IPCA
 
-This project aims to analyze and predict the IPCA historical series.
+This project aims to analyze and predict the IPCA historical series. Challenge of the Time Series discipline of the postgraduate course in Artificial Intelligence.
 
 #### Serie plot
 
