@@ -4,15 +4,15 @@ This project aims to analyze and predict the IPCA historical series. Challenge o
 
 #### Serie plot
 
-<img align="center" alt="serie" src="https://raw.githubusercontent.com/macio-matheus/time-series-ipca/master/docs/serie_plot.png" data-canonical-src="https://raw.githubusercontent.com/macio-matheus/time-series-ipca/master/docs/serie_plot.png" style="float: right;" width="600" height="300" />
+<img align="center" alt="serie" src="https://raw.githubusercontent.com/macio-matheus/time-series-ipca/master/docs/serie_plot.png" data-canonical-src="https://raw.githubusercontent.com/macio-matheus/time-series-ipca/master/docs/serie_plot.png" width="600" height="300" />
 
 #### Lag plot
 
-![lag plot](https://raw.githubusercontent.com/macio-matheus/time-series-ipca/master/docs/lag_plot.png)
+<img align="center" alt="lag-plot" src="https://raw.githubusercontent.com/macio-matheus/time-series-ipca/master/docs/lag_plot.png" data-canonical-src="https://raw.githubusercontent.com/macio-matheus/time-series-ipca/master/docs/lag_plot.png" width="600" height="300" />
 
 #### Experiment with LSTM
 
-![lstm experiment plot](https://raw.githubusercontent.com/macio-matheus/time-series-ipca/master/docs/experiment_lstm.png)
+<img align="center" alt="lstm experiment plot" src="https://raw.githubusercontent.com/macio-matheus/time-series-ipca/master/docs/experiment_lstm.png" data-canonical-src="https://raw.githubusercontent.com/macio-matheus/time-series-ipca/master/docs/experiment_lstm.png" width="600" height="300" />
 
 ### Usage
 First of all, build the container using docker-compose and then you can 
