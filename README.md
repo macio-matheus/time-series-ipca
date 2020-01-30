@@ -4,7 +4,7 @@ This project aims to analyze and predict the IPCA historical series. Challenge o
 
 #### Serie plot
 
-![serie](https://raw.githubusercontent.com/macio-matheus/time-series-ipca/master/docs/serie_plot.png =250x250)
+![serie](https://raw.githubusercontent.com/macio-matheus/time-series-ipca/master/docs/serie_plot.png  | width=80)
 
 #### Lag plot
 
